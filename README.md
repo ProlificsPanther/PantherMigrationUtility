@@ -1,6 +1,6 @@
 # PantherMigrationUtility
 
-To use this utiltiy please intall the latest version of JDK on your system suiting your system bitness.
+To use this utility please intall the latest version of JDK on your system suiting your system bitness.
 
 # Setting up the environment
 
