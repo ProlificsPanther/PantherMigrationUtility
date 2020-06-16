@@ -32,17 +32,10 @@ var _buildGrid = function() {
 		"order" : [2,'asc']
 	});
 	var table = $('#$gridName').DataTable();
-
-	$('#$gridName tbody').on( 'click', '.select-checkbox', function () {
-		var $row=$(this).closest('tr');
-	    if ( $row.hasClass('selected') ) {
-	    	$row.removeClass('selected');
-	    }
-	    else {
-	        table.$('tr.selected').removeClass('selected');
-	        $row.addClass('selected');
-	        var myocc = table.row( this ).data().DT_RowId;	    	
-	    }
-	} );
+	
+	//Make an on click for the row
+	$('#$gridName').on( 'click', 'tr', function (){
+		var row_id= table.row( this ).id(); 		//Get the row ID
+		var row_value = table.row( this ).data(); 	//Get the row value
+	});
 }
-
