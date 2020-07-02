@@ -1,6 +1,6 @@
 # PantherMigrationUtility
 
-To use this utility please intall the latest version of JDK on your system suiting your system bitness.
+Migration Utility to convert your Panther screens into bootstrap based HTML Templates.To use this utility please intall the latest version of JDK with the correct bitness.  
 
 # Setting up the environment
 
