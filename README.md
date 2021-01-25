@@ -1,6 +1,6 @@
 # PantherMigrationUtility
 
-Migration Utility to convert your Panther screens into bootstrap based HTML Templates.To use this utility please intall the latest version of JDK with the correct bitness.  
+Panthers' Migration Utility converts your Panther screens into bootstrap based HTML Templates. Please upload the latest release  
 
 # Setting up the environment
 
@@ -14,4 +14,4 @@ Need a Panther Web 552 Redhat Image? [Click Here](https://hub.docker.com/r/proli
 
 How to set up a Panther Servlet Web Application? [Click Here](https://github.com/ProlificsPanther/PantherWeb/releases "Named link title")
 
-Read our Documentation [here](https://docs.prolifics.com)
+Panther Documentation [here](https://docs.prolifics.com)
