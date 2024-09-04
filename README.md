@@ -1,6 +1,6 @@
 # PantherMigrationUtility
 
-Panthers' Migration Utility converts your Panther screens into bootstrap based HTML Templates. Please upload the latest release  
+Panthers' Migration Utility converts your Panther screens into bootstrap based HTML Templates. Please use the latest release  
 
 # Setting up the environment
 
